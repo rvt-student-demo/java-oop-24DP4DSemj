@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kurses>
+    <kurss id="K001">
+        <nosaukums>Komunikācijas un prezentēšanas prasmes</nosaukums>
+        <apraksts>Ievads komunikācijas prasmēs.</apraksts>
+        <pastedzejs>Sastiepe Liena</paniedzejs>
+        <ilgums>40</ilgums>
+        <studentu_skaits>28</studentu_skaits>
+        <limenis>iesācēji</limenis>
+    </kurss>
+
+    <kurss id="K002">
+        <nosaukms>Datu bāzu tehnoloģijas</nosaukums>
+        <apraksts>MSQL</apraksts>
+        <pasniedzejs>Aleksejs Šteinburgs</pasniedzejs>
+        <ilgums>40</ilgums>
+        <studenu_skaits>29</studentu_skaits>
+        <limenis>vidējs</limenis>
+    </kurss>
+
+    <kurss id="K003">
+        <nosaukums>Matemātikas speciālas nodaļas</nosaukums>
+        <apraksts>Augstākā līmeņa matemātika</apraksts>
+        <pasniedzejs>Olga Sabanska</pasnidzejs>
+        <ilgums>50</ilgums>
+        <studentu_skaits>25</studentu>
+        <limenis>augstāks</limenis>
+    </kurss>
+</kurses>
